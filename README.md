@@ -1,6 +1,6 @@
 # HW-TRACKER
 
-# Team Members
+## Team Members
 
 * Connor Radeloff: Connor.Radeloff@colorado.edu
 * Yuehua Yang: Yuehua.Yang@colorado.edu
